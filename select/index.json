@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏に恋してる",
+  "base_artist": "MEGAFON",
+  "createdAt": "2026-02-24T16:12:27.084149Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏に恋してる",
+      "artist": "MEGAFON",
+      "has_synced": false,
+      "path": "select/pl_01_夏に恋してる_MEGAFON.txt"
+    }
+  ]
+}
